@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/dashboard-ocr/static/css/main.1b59e610.chunk.css",
+    "main.js": "/dashboard-ocr/static/js/main.ff89fb27.chunk.js",
+    "main.js.map": "/dashboard-ocr/static/js/main.ff89fb27.chunk.js.map",
+    "runtime-main.js": "/dashboard-ocr/static/js/runtime-main.a5e55099.js",
+    "runtime-main.js.map": "/dashboard-ocr/static/js/runtime-main.a5e55099.js.map",
+    "static/js/2.4073c562.chunk.js": "/dashboard-ocr/static/js/2.4073c562.chunk.js",
+    "static/js/2.4073c562.chunk.js.map": "/dashboard-ocr/static/js/2.4073c562.chunk.js.map",
+    "index.html": "/dashboard-ocr/index.html",
+    "precache-manifest.e4d92dd6e5618968d75e94fcd9c7e513.js": "/dashboard-ocr/precache-manifest.e4d92dd6e5618968d75e94fcd9c7e513.js",
+    "service-worker.js": "/dashboard-ocr/service-worker.js",
+    "static/css/main.1b59e610.chunk.css.map": "/dashboard-ocr/static/css/main.1b59e610.chunk.css.map",
+    "static/js/2.4073c562.chunk.js.LICENSE.txt": "/dashboard-ocr/static/js/2.4073c562.chunk.js.LICENSE.txt",
+    "static/media/styles.app.css": "/dashboard-ocr/static/media/Poppins-Regular.8b6af8e5.ttf",
+    "static/media/bell.svg": "/dashboard-ocr/static/media/bell.f595d983.svg",
+    "static/media/calendar_edit.svg": "/dashboard-ocr/static/media/calendar_edit.c2a68d2b.svg",
+    "static/media/done2.gif": "/dashboard-ocr/static/media/done2.f36541b3.gif",
+    "static/media/google.svg": "/dashboard-ocr/static/media/google.36debf7a.svg",
+    "static/media/hero-motiologin.gif": "/dashboard-ocr/static/media/hero-motiologin.f9051d06.gif",
+    "static/media/home.svg": "/dashboard-ocr/static/media/home.c4e58a8f.svg",
+    "static/media/ijazah.png": "/dashboard-ocr/static/media/ijazah.d09a3f13.png",
+    "static/media/ktp.png": "/dashboard-ocr/static/media/ktp.5b9a7026.png",
+    "static/media/loading.gif": "/dashboard-ocr/static/media/loading.f65996a2.gif",
+    "static/media/menu.svg": "/dashboard-ocr/static/media/menu.fbb6613f.svg",
+    "static/media/message.svg": "/dashboard-ocr/static/media/message.dcc1f463.svg",
+    "static/media/ocrlogos.svg": "/dashboard-ocr/static/media/ocrlogos.20d49698.svg",
+    "static/media/placeholder.png": "/dashboard-ocr/static/media/placeholder.49ba6a89.png",
+    "static/media/sally.png": "/dashboard-ocr/static/media/sally.8fa38bca.png",
+    "static/media/screening.svg": "/dashboard-ocr/static/media/screening.e3f8083d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e55099.js",
+    "static/js/2.4073c562.chunk.js",
+    "static/css/main.1b59e610.chunk.css",
+    "static/js/main.ff89fb27.chunk.js"
+  ]
+}
